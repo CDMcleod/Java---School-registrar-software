@@ -1,0 +1,99 @@
+ACC-100,Basic Accounting,3
+ACC-101,Accounting Principles I,3
+ACC-102,Accounting Principles II,3
+ACC-111,Accounting Concepts,3
+ACC-112,Organizational Accounting,3
+ACC-124,Individual Tax Procedures,3
+ACC-150,Payroll Accounting,3
+ACC-201,Intermediate Accounting I,3
+ACC-202,Intermediate Accounting II,3
+ACC-203,Intermediate Accounting III,3
+ACC-221,Corporate Taxation,3
+ACC-226,Tax Audit and Research,3
+ACC-240,Computerized Accounting,3
+ACC-245,Accounting Applications,3
+ACC-260,Auditing,3
+ACC-265,Not-For-Profit Accounting,3
+ACC-275,Selected Topics in Accounting,3
+BUS-101,Introduction to Business,3
+BUS-112,Service Management Systems,3
+BUS-121,Business Law I,3
+BUS-136,Compensation and Benefits,3
+BUS-176,International Marketing,3
+BUS-210,Intro to e-Commerce Business,3
+BUS-220,Business Ethics,3
+BUS-250,Intro to Int'l Business,3
+CPT-101,Introduction to Computers,3
+CPT-102,Basic Computer Concepts,3
+CPT-114,Computers and Programming,3
+CPT-167,Intro to Programming Logic,3
+CPT-172,Microcomputer Database,3
+CPT-174,Microcomputer Spreadsheets,3
+CPT-179,Microcomputer Word Processing,3
+CPT-187,Object-Oriented Logic & Design,3
+CPT-209,Computer Systems Management,3
+CPT-210,Computer Resource Management,3
+CPT-220,e-Commerce,3
+CPT-237,Advanced Java Programming,3
+CPT-238,Internet Scripting,3
+CPT-242,Database,3
+CPT-244,Data Structures,3
+CPT-262,Advanced Web Page Publishing,3
+CPT-264,Systems and Procedures,3
+CPT-268,Computer End-User Support,3
+CPT-270,Advanced Microcomputer Apps,3
+CPT-282,Information Systems Security,3
+CPT-283,PHP Programming I,3
+CPT-290,Multimedia Concepts & Apps,3
+IST-161,Intro to Network Administration,3
+IST-162,Introduction to Workstation Network,3
+IST-163,Internet Server Netwk Config,3
+IST-164,Implementing Windows Network,3
+IST-165,Implementing Windows Directory,3
+IST-166,Network Fundamentals,3
+IST-190,LINUX Essentials,3
+IST-191,LINUX System Administration,3
+IST-192,LINUX Network Applications,3
+IST-196,Cloud Storage Fundamentals,3
+IST-198,Cloud Essentials,3
+IST-201,Cisco Internetworking Concepts,3
+IST-202,Cisco Router Configuration,3
+IST-203,Advanced Cisco Router Config,3
+IST-204,Cisco Troubleshooting,3
+IST-205,Cisco Advanced Routing,3
+IST-207,Cisco Multilayer Switching,3
+IST-220,Data Communications,3
+IST-239,Datum and JavaScript,3
+IST-250,Network Management,3
+IST-253,LAN Service and Support,3
+IST-260,Network Design,3
+IST-263,Windows Network Security,3
+IST-268,Computer Forensics,3
+IST-269,Digital Forensics,3
+IST-272,Relational Database,3
+IST-286,Technical Support Internship I,3
+IST-287,Tech Support Internship II,3
+IST-291,Fund of Network Security I,3
+IST-293,IT and Data Assurance I,3
+IST-294,IT and Data Assurance II,3
+MAT-110,College Algebra I,3
+MAT-120,Probability and Statistics,3
+MGT-101,Principles of Management,3
+MGT-110,Office Management,3
+MGT-120,Small Business Management,3
+MGT-121,Small Business Operations,3
+MGT-201,Human Resource Management,3
+MGT-210,Employee Selection & Retention,3
+MGT-230,Managing Information Resources,3
+MGT-235,Production Management,3
+MGT-240,Management Decision Making,3
+MGT-250,Situational Supervision,3
+MGT-255,Organizational Behavior,3
+MGT-270,Managerial Communication,3
+LOG-125,Transportation and Logistics,4
+LOG-215,Supply Chain Management,4
+LOG-240,Purchasing Logistics,4
+ECO-210,Macroeconomics,3
+ECO-211,Microeconomics,3
+BAF-101,Personal Finance,3
+LOG-235,Traffic Management,4

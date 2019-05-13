@@ -1,0 +1,20 @@
+Jeff,Beck,Computer Programming,CPT-102,CPT-167,CPT-187
+Charlie,Daniels,Database
+Greg,Allman,Accounting,CPT-102,ACC-111,ACC-150,CPT-101,ACC-102,ACC-112
+Leon,Russell,Information Systems,CPT-174,IST-220,CPT-209,CPT-270
+Bonnie,Raitt,Supply Chain Management,CPT-101,MAT-120,ACC-101,BUS-101,MGT-101,CPT-282
+Celia,Cruz,Network Administration,CPT-209,CPT-210,IST-190,IST-165,IST-293,ECO-210
+William,Wilberforce,A+/Network+ Technician
+Clive,Lewis,Computer Programming,CPT-102,CPT-187,CPT-242
+Martin,Luther,Database
+George,Washington,Accounting,CPT-102,ACC-150,ACC-102,ACC-124,ACC-240,ACC-245
+Washington,Carver,Information Systems,CPT-174,CPT-242,IST-220,MAT-110
+Angie,Harmon,Supply Chain Management,CPT-101,ACC-101,MGT-101,MGT-270,BUS-121,BAF-101
+Susan,Anthony,Computer Programming,CPT-102,CPT-167,CPT-187
+Mark,Harmon,Accounting,CPT-102,ACC-150,ACC-102,ACC-124,ACC-240,ACC-245
+Francis,D'Assissi,Supply Chain Management,CPT-101,MAT-120,ACC-101,BUS-101,MGT-101,CPT-282
+J.R.R.,Tolkein,Network Administration,CPT-209,CPT-210,IST-190,IST-165,IST-293,ECO-210
+G.K.,Chesterton,Computer Programming,CPT-102,CPT-167,CPT-187
+Clark,Kent,Database
+George,Macdonald,Information Systems,CPT-174,CPT-242,IST-220,MAT-110
+Diego,de la Vega,Network Administration,CPT-209,CPT-210,IST-190,IST-165,IST-293,ECO-210

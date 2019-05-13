@@ -1,0 +1,6 @@
+Ada,Lovelace,CPT-102
+Charles,Babbage,CPT-167
+Donald,Knuth,CPT-187
+Grace,Hopper,CPT-172
+Taher,Elgamal,CPT-244
+John,von Neumann,CPT-237
