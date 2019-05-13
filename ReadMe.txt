@@ -26,4 +26,4 @@ bar.
 
 alternatively, select 'file' and select 'open projects from file system'. select
 the final program file and click the 'search for nested projects' checkbox on the 
-open projects UI. select finish to import project. (need to import into curretn workspace).
+open projects UI. select finish to import project. (need to import into current workspace).
