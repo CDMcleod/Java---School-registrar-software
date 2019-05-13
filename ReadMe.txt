@@ -20,7 +20,9 @@ select the 'General' tab and select 'Existing Projects into Workspace'.
 After hititng next, select the archive file radio button and Browse
 to the file location. Select the compressed zip file of the program,
 making sure to select the Final Program File within the projects box. click
-'Finish' to import the project into your workspace. To compile, simply
+'Finish' to import the project into your workspace. Be sure to include all 
+relevant text files to ensure that classes, students, and instructors appear
+in lists within the User Interface.To compile, simply
 click the green run icon at the top of the IDE beneath the navigation
 bar.
 
