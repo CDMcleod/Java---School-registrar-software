@@ -4,10 +4,10 @@ Information:
 
 This Program serves to replicate a functional registry system for a school or 
 University. Written in Java and using JavaFX for user interface, the registry
-allows for searchig and entering students into the school registry system,
-assignment of majors included in the .txt files included in the program file,
-capability of assigning students and teachers to classes. Program allows for
-incrementing of allocated class size to increase capacity of class. program
+allows for searching and entering students into the school registry system,
+assignment of majors provided from within the .txt files included in the program
+file, and capability of assigning students and teachers to classes. Program allows
+for incrementing of allocated class size to increase capacity of class. program
 contains multiple methods of error checking and prevention of unauthorized
 assignment of students or teacher to classes.
 
